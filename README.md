@@ -1,5 +1,7 @@
 # Boxicon
 level-based 3D obstacle runner
+![sadyKp7Gj9](https://user-images.githubusercontent.com/55924890/115392198-ea062080-a1fd-11eb-8bc8-16f3ca4bd3a8.gif)
+
 
 ## Instructions For Running WebGL Version:
 1.  Firefox (recommended browser for running WebGL)
@@ -36,4 +38,4 @@ level-based 3D obstacle runner
     * From the safari “Develop” menu, select “Disable local file restrictions”
     
 
-**As a general rule, restart your computer after making these changes since browsers require it and some don't.**
+**As a general rule, restart your computer after making these changes since some browsers require it and some don't.**
